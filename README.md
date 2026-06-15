@@ -42,6 +42,8 @@ With ponytail:
 
 More survivors in [examples/](examples/).
 
+> **Pairs well with** [Modern Web Guidance](https://github.com/GoogleChrome/modern-web-guidance) for web work: ponytail decides *whether* to lean on the platform, MWG is how the agent looks up *which* native feature does the job. See [examples/web-platform-lookup.md](examples/web-platform-lookup.md).
+
 ## Numbers
 
 Five everyday tasks (email validator, debounce, CSV sum, countdown timer, rate limiter), three models, three arms: no skill, the [caveman](https://github.com/JuliusBrussee/caveman) skill, and ponytail. Ten runs per cell, median reported.
